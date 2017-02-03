@@ -1,4 +1,4 @@
-#Angular 2  Boilerplate
+#Angular 2
 
 ## Description
 Angular 2 starter project using TypeScript
